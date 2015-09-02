@@ -4,4 +4,3 @@
 
 
 ![](./attachment/PopAnimation.gif)
-![](./attachment/PopAnimation2.gif)
