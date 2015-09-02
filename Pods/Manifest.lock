@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (0.6.2)
+  - pop (1.0.7)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.2)
+  - pop (from `https://github.com/facebook/pop.git`)
+
+EXTERNAL SOURCES:
+  pop:
+    :git: https://github.com/facebook/pop.git
+
+CHECKOUT OPTIONS:
+  pop:
+    :commit: 8b76b72f75016c2f77dc7427c835579e50180227
+    :git: https://github.com/facebook/pop.git
+
+SPEC CHECKSUMS:
+  Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+
+COCOAPODS: 0.37.2
